@@ -1,5 +1,5 @@
 class Hello{
-  static void main() {
+  public static void main() {
     System.out.print("hello world.");
   }
 }
